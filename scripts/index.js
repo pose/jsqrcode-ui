@@ -1,5 +1,3 @@
-var writeFileSync = require('fs').writeFileSync;
-
 HTMLCanvasElement = window.HTMLCanvasElement;
 var qrcode = require('jsqrcode')();
 
