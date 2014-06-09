@@ -1,0 +1,14 @@
+{
+  "name": "jsqrcode-ui",
+  "description": "node-webkit drag and drop UI for jsqrcode",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsqrcode": "https://github.com/pose/jsqrcode-1/tarball/master"
+  },
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 612,
+    "height": 310
+  }
+}
